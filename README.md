@@ -1,5 +1,4 @@
-🚀 EOTHello - Enhanced Othello AI Game
-[ [ [
+EOTHello - Enhanced Othello AI Game
 
 A professional implementation of the classic Othello (Reversi) board game in Python, featuring a powerful Minimax with Alpha-Beta Pruning AI opponent. Built as a Jupyter Notebook for easy experimentation, simulation, and visualization. Supports 8x8 board, valid move detection, flipping mechanics, scoring, and full gameplay automation.
 ​
